@@ -1,3 +1,9 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 body{
     background: white;
     text-align: center;
@@ -18,6 +24,8 @@ header .navigator ul{
 }
 header .navigator ul li{
     display: inline;
+    padding: 0;
+    margin: 0;
 }
 .container{
     width: 100%;
