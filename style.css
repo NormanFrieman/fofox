@@ -36,6 +36,9 @@ header .navigator ul li{
 
     margin: 32px auto;
 }
+button{
+    cursor: pointer;
+}
 .btnOrange{
     background-color: #FF671B;
     color: white;
